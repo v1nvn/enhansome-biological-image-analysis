@@ -31,14 +31,14 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## General image analysis software
 
-* [OpenCV](https://github.com/opencv/opencv) ⭐ 86,096 | 🐛 2,732 | 🌐 C++ | 📅 2026-02-07 - Open source computer vision and machine learning software library.
-* [Scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,441 | 🐛 867 | 🌐 Python | 📅 2026-02-05 - Collection of algorithms for image processing.
-* [Napari](https://github.com/napari/napari) ⭐ 2,592 | 🐛 1,130 | 🌐 Python | 📅 2026-02-08 - Fast, interactive, multi-dimensional image viewer for Python.
-* [3D Slicer](https://github.com/Slicer/Slicer) ⭐ 2,308 | 🐛 658 | 🌐 C++ | 📅 2026-02-05 - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
+* [OpenCV](https://github.com/opencv/opencv) ⭐ 86,107 | 🐛 2,736 | 🌐 C++ | 📅 2026-02-07 - Open source computer vision and machine learning software library.
+* [Scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,441 | 🐛 866 | 🌐 Python | 📅 2026-02-08 - Collection of algorithms for image processing.
+* [Napari](https://github.com/napari/napari) ⭐ 2,592 | 🐛 1,132 | 🌐 Python | 📅 2026-02-08 - Fast, interactive, multi-dimensional image viewer for Python.
+* [3D Slicer](https://github.com/Slicer/Slicer) ⭐ 2,309 | 🐛 658 | 🌐 C++ | 📅 2026-02-05 - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
 * [ImagePy](https://github.com/Image-Py/imagepy) ⭐ 1,351 | 🐛 58 | 🌐 Python | 📅 2024-02-21 - Open source image processing framework written in Python.
 * [ImageJ2](https://github.com/imagej/imagej2) ⭐ 1,337 | 🐛 133 | 🌐 Java | 📅 2025-08-12 - A Rewrite of ImageJ for multidimensional image data, with a focus on scientific imaging.
 * [CellProfiler](https://github.com/CellProfiler/CellProfiler) ⭐ 1,087 | 🐛 321 | 🌐 Python | 📅 2026-02-06 - Open-source software helping biologists turn images into cell measurements.
-* [Fiji](https://github.com/fiji/fiji) ⭐ 923 | 🐛 132 | 🌐 Shell | 📅 2025-12-26 - A "batteries-included" distribution of ImageJ — a popular, free scientific image processing application.
+* [Fiji](https://github.com/fiji/fiji) ⭐ 924 | 🐛 132 | 🌐 Shell | 📅 2025-12-26 - A "batteries-included" distribution of ImageJ — a popular, free scientific image processing application.
 * [ImageJ](https://github.com/imagej/ImageJ) ⭐ 726 | 🐛 83 | 🌐 Java | 📅 2026-02-04 - Public domain software for processing and analyzing scientific images.
 * [Ilastik](https://github.com/ilastik/ilastik) ⭐ 388 | 🐛 584 | 🌐 Python | 📅 2026-02-05 - Simple, user-friendly tool for interactive image classification, segmentation and analysis.
 * [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) ⭐ 192 | 🐛 167 | 🌐 Python | 📅 2026-02-07 - A GUI-based Python framework for segmentation, tracking, cell cycle annotations and quantification of microscopy data.
@@ -57,7 +57,7 @@ Biological image analysis aims to increase our understanding of biology through 
 * [Squidpy](https://github.com/scverse/squidpy) ⭐ 550 | 🐛 96 | 🌐 Python | 📅 2026-02-03 - Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins.
 * [DeepSlide](https://github.com/BMIRDS/deepslide) ⭐ 511 | 🐛 0 | 🌐 Python | 📅 2024-06-07 - A sliding window framework for classification of high resolution microscopy images.
 * [DeepCell](https://github.com/vanvalenlab/deepcell-tf) ⭐ 473 | 🐛 52 | 🌐 Python | 📅 2024-08-30 - Deep learning library for single cell analysis.
-* [Suite2p](https://github.com/MouseLand/suite2p) ⭐ 427 | 🐛 142 | 🌐 Jupyter Notebook | 📅 2025-08-31 - Pipeline for processing two-photon calcium imaging data.
+* [Suite2p](https://github.com/MouseLand/suite2p) ⭐ 427 | 🐛 142 | 🌐 Python | 📅 2026-02-09 - Pipeline for processing two-photon calcium imaging data.
 * [PyImSegm](https://github.com/Borda/pyImSegm) ⚠️ Archived - Image segmentation - general superpixel segmentation and center detection and region growing.
 * [CellVit++](https://github.com/TIO-IKIM/CellViT) ⭐ 358 | 🐛 20 | 🌐 Python | 📅 2025-07-23 - A framework for lightweight cell segmentation model training and inference.
 * [AtomAI](https://github.com/pycroscopy/atomai) ⭐ 218 | 🐛 11 | 🌐 Python | 📅 2025-06-24 - PyTorch-based package for deep/machine learning analysis of microscopy data.
@@ -75,7 +75,7 @@ Biological image analysis aims to increase our understanding of biology through 
 * [Cellshape](https://github.com/Sentinal4D/cellshape) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2025-10-08 - 3D single-cell shape analysis of cancer cells using geometric deep learning.
 * [SyMBac](https://github.com/georgeoshardo/SyMBac) ⭐ 22 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-07-23 - Accurate segmentation of bacterial microscope images using synthetically generated image data.
 * [Classpose](https://github.com/sohmandal/classpose) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-02-05 - A foundation model-driven whole slide image-scale cell phenotyping method with QuPath integration.
-* [FlashDeconv](https://github.com/cafferychen777/flashdeconv) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-02-05 - High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.
+* [FlashDeconv](https://github.com/cafferychen777/flashdeconv) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-02-08 - High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.
 * [Salem²](https://github.com/JackieZhai/SALEM2) ⚠️ Archived - Segment Anything in Light and Electron Microscopy via Membrane Guidance.
 * [CLIJ2](https://clij.github.io/) - GPU-accelerated image processing library for ImageJ/Fiji, Icy, MATLAB and Java.
 * [HistoPLUS](https://huggingface.co/Owkin-Bioptimus/histoplus) - Pre-trained model for cell nuclei segmentation and classification in histology images.
@@ -87,11 +87,11 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Neuroscience
 
-* [Neuroglancer](https://github.com/google/neuroglancer/) ⭐ 1,272 | 🐛 191 | 🌐 TypeScript | 📅 2026-01-16 - WebGL-based viewer for volumetric data.
+* [Neuroglancer](https://github.com/google/neuroglancer/) ⭐ 1,273 | 🐛 191 | 🌐 TypeScript | 📅 2026-01-16 - WebGL-based viewer for volumetric data.
 * [CaImAn](https://github.com/flatironinstitute/CaImAn) ⭐ 712 | 🐛 94 | 🌐 Python | 📅 2026-02-01 - Computational toolbox for large scale Calcium Imaging Analysis.
 * [Brainrender](https://github.com/brainglobe/brainrender) ⭐ 623 | 🐛 10 | 🌐 Python | 📅 2026-02-03 - Python package for the visualization of three dimensional neuro-anatomical data.
 * [Cellfinder](https://github.com/brainglobe/cellfinder) ⭐ 224 | 🐛 70 | 🌐 Python | 📅 2026-02-03 - Automated 3D cell detection and registration of whole-brain images.
-* [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) ⭐ 188 | 🐛 0 | 🌐 Python | 📅 2026-02-05 - Deep learning framework for automatic and semi-automatic annotation of connectomics datasets, powered by PyTorch.
+* [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) ⭐ 188 | 🐛 0 | 🌐 Python | 📅 2026-02-09 - Deep learning framework for automatic and semi-automatic annotation of connectomics datasets, powered by PyTorch.
 * [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) ⭐ 172 | 🐛 210 | 🌐 Python | 📅 2026-02-06 - A lightweight Python module to interact with atlases for systems neuroscience.
 * [CloudVolume](https://github.com/seung-lab/cloud-volume) ⭐ 171 | 🐛 90 | 🌐 Python | 📅 2026-02-04 - Read and write Neuroglancer datasets programmatically.
 * [Brainreg](https://github.com/brainglobe/brainreg) ⭐ 144 | 🐛 17 | 🌐 Python | 📅 2026-02-03 - Automated 3D brain registration with support for multiple species and atlases.
@@ -106,7 +106,7 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Plant science
 
-* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 765 | 🐛 122 | 🌐 Python | 📅 2026-02-07 - Open-source image analysis software package targeted for plant phenotyping.
+* [PlantCV](https://github.com/danforthcenter/plantcv) ⭐ 765 | 🐛 123 | 🌐 Python | 📅 2026-02-07 - Open-source image analysis software package targeted for plant phenotyping.
 * [PlantSeg](https://github.com/hci-unihd/plant-seg) ⭐ 124 | 🐛 28 | 🌐 Python | 📅 2026-02-05 - Tool for cell instance aware segmentation in densely packed 3D volumetric images.
 * [RootPainter](https://github.com/Abe404/root_painter) ⭐ 73 | 🐛 54 | 🌐 Python | 📅 2026-01-19 - Deep learning segmentation of biological images with corrective annotation.
 * [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) ⭐ 48 | 🐛 3 | 🌐 Nextflow | 📅 2025-05-26 - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images.
@@ -143,7 +143,7 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Cell migration and particle tracking
 
-* [TrackMate](https://github.com/fiji/TrackMate) ⭐ 226 | 🐛 13 | 🌐 Java | 📅 2026-01-28 - User-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way.
+* [TrackMate](https://github.com/fiji/TrackMate) ⭐ 227 | 🐛 13 | 🌐 Java | 📅 2026-01-28 - User-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way.
 * [Usiigaci](https://github.com/oist/usiigaci) ⭐ 204 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-09-15 - Stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.
 * [Ultrack](https://github.com/royerlab/ultrack) ⭐ 168 | 🐛 68 | 🌐 Python | 📅 2026-02-05 - Versatile cell tracking method for 2D, 3D, and multichannel timelapses, overcoming segmentation challenges in complex tissues.
 * [TrackMateR](https://github.com/quantixed/TrackMateR) ⭐ 17 | 🐛 0 | 🌐 R | 📅 2026-01-14 - R package to analyze cell migration and particle tracking experiments using outputs from TrackMate.
@@ -187,11 +187,11 @@ Biological image analysis aims to increase our understanding of biology through 
 
 * [SimpleITK](https://github.com/SimpleITK/SimpleITK) ⭐ 1,039 | 🐛 71 | 🌐 SWIG | 📅 2026-02-07 - Open-source multi-dimensional image analysis in Python, R, Java, C#, Lua, Ruby, TCL and C++.
 * [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) ⭐ 627 | 🐛 59 | 🌐 Jupyter Notebook | 📅 2025-12-08 - Google Colab to develop a free and open-source toolbox for deep-Learning in microscopy.
-* [Neurite](https://github.com/adalca/neurite) ⭐ 373 | 🐛 20 | 🌐 Python | 📅 2026-02-02 - Neural networks toolbox focused on medical image analysis.
+* [Neurite](https://github.com/adalca/neurite) ⭐ 373 | 🐛 20 | 🌐 Python | 📅 2026-02-08 - Neural networks toolbox focused on medical image analysis.
 * [AICSImageIO](https://github.com/AllenCellModeling/aicsimageio) ⚠️ Archived - Image reading, metadata conversion, and image writing for nicroscopy images in Python.
 * [CaPTk](https://github.com/CBICA/CaPTk) ⭐ 196 | 🐛 174 | 🌐 C++ | 📅 2023-12-09 - Cancer Imaging Phenomics Toolkit: A software platform to perform image analysis and predictive modeling tasks.
 * [OAD](https://github.com/zeiss-microscopy/OAD) ⭐ 160 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-22 - Collection of tools and scripts useful to automate microscopy workflows in ZEN Blue using Python and Open Application Development tools.
-* [Pycytominer](https://github.com/cytomining/pycytominer) ⭐ 134 | 🐛 105 | 🌐 Python | 📅 2026-02-02 - Data processing functions for profiling perturbations.
+* [Pycytominer](https://github.com/cytomining/pycytominer) ⭐ 135 | 🐛 105 | 🌐 Python | 📅 2026-02-02 - Data processing functions for profiling perturbations.
 * [Pyotf](https://github.com/david-hoffman/pyotf) ⭐ 81 | 🐛 7 | 🌐 Python | 📅 2024-04-08 - A simulation software package for modelling optical transfer functions (OTF)/point spread functions (PSF) of optical microscopes written in Python.
 * [Nd2reader](https://github.com/Open-Science-Tools/nd2reader) ⭐ 48 | 🐛 29 | 🌐 Python | 📅 2025-01-15 - A pure-Python package that reads images produced by NIS Elements 4.0+.
 * [ZetaStitcher](https://github.com/lens-biophotonics/ZetaStitcher) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2025-11-13 - Tool designed to stitch large volumetric images such as those produced by light-sheet fluorescence microscopes.
