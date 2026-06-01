@@ -10,7 +10,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-30T15:27:58Z",
+            "last_commit": "2026-05-31T07:45:07Z",
             "owner": "Slicer",
             "repo": "Slicer",
             "stars": 2484
@@ -28,7 +28,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-30T10:43:58Z",
+            "last_commit": "2026-05-31T14:56:41Z",
             "owner": "SchmollerLab",
             "repo": "Cell_ACDC",
             "stars": 196
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-30T14:10:03Z",
+            "last_commit": "2026-05-31T11:25:02Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 87701
+            "stars": 87716
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-05-30T13:59:47Z",
             "owner": "scikit-image",
             "repo": "scikit-image",
-            "stars": 6519
+            "stars": 6522
           }
         }
       ],
@@ -237,7 +237,7 @@
             "last_commit": "2026-05-27T15:26:14Z",
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2218
+            "stars": 2219
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2024-06-07T15:22:44Z",
             "owner": "BMIRDS",
             "repo": "deepslide",
-            "stars": 514
+            "stars": 515
           }
         },
         {
@@ -343,7 +343,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-16T19:07:10Z",
+            "last_commit": "2026-05-31T19:20:31Z",
             "owner": "cafferychen777",
             "repo": "flashdeconv",
             "stars": 18
@@ -403,7 +403,7 @@
             "last_commit": "2026-05-28T15:26:52Z",
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
-            "stars": 684
+            "stars": 685
           }
         },
         {
@@ -494,7 +494,7 @@
             "last_commit": "2026-05-29T13:21:20Z",
             "owner": "scverse",
             "repo": "squidpy",
-            "stars": 572
+            "stars": 573
           }
         },
         {
@@ -588,7 +588,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-29T16:30:17Z",
+            "last_commit": "2026-05-31T20:54:54Z",
             "owner": "brainglobe",
             "repo": "brainglobe-atlasapi",
             "stars": 180
@@ -653,7 +653,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-29T08:14:00Z",
+            "last_commit": "2026-05-31T16:06:30Z",
             "owner": "seung-lab",
             "repo": "cloud-volume",
             "stars": 173
@@ -682,7 +682,7 @@
             "last_commit": "2026-05-28T23:57:29Z",
             "owner": "google",
             "repo": "neuroglancer",
-            "stars": 1328
+            "stars": 1329
           }
         },
         {
@@ -715,7 +715,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-30T18:55:57Z",
+            "last_commit": "2026-05-31T13:08:04Z",
             "owner": "morphonets",
             "repo": "SNT",
             "stars": 60
@@ -901,7 +901,7 @@
             "last_commit": "2025-02-04T15:48:48Z",
             "owner": "PreibischLab",
             "repo": "RS-FISH",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "last_commit": "2026-04-30T08:28:33Z",
             "owner": "Bayer-Group",
             "repo": "paquo",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -1692,7 +1692,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:19:21.925Z",
+    "last_updated": "2026-06-01T06:57:06.305Z",
     "original_repository": "hallvaaw/awesome-biological-image-analysis",
     "source_repository": "v1nvn/enhansome-biological-image-analysis",
     "source_repository_description": null,
