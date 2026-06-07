@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-05T20:58:49Z",
+            "last_commit": "2026-06-06T22:51:29Z",
             "owner": "Slicer",
             "repo": "Slicer",
-            "stars": 2490
+            "stars": 2491
           }
         },
         {
@@ -44,7 +44,7 @@
             "last_commit": "2026-06-05T19:51:37Z",
             "owner": "CellProfiler",
             "repo": "CellProfiler",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-06-01T14:13:36Z",
             "owner": "imagej",
             "repo": "ImageJ",
-            "stars": 762
+            "stars": 763
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-05T20:50:03Z",
+            "last_commit": "2026-06-06T10:45:02Z",
             "owner": "opencv",
             "repo": "opencv",
-            "stars": 87817
+            "stars": 87879
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-05-27T15:26:14Z",
             "owner": "MouseLand",
             "repo": "cellpose",
-            "stars": 2228
+            "stars": 2229
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2026-06-04T01:21:08Z",
             "owner": "vanvalenlab",
             "repo": "deepcell-tf",
-            "stars": 474
+            "stars": 475
           }
         },
         {
@@ -403,7 +403,7 @@
             "last_commit": "2026-06-05T18:34:28Z",
             "owner": "computational-cell-analytics",
             "repo": "micro-sam",
-            "stars": 686
+            "stars": 687
           }
         },
         {
@@ -439,7 +439,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T23:17:21Z",
+            "last_commit": "2026-06-06T23:44:26Z",
             "owner": "4DNucleome",
             "repo": "PartSeg",
             "stars": 37
@@ -520,7 +520,7 @@
             "last_commit": "2026-02-14T16:16:18Z",
             "owner": "stardist",
             "repo": "stardist",
-            "stars": 1220
+            "stars": 1221
           }
         },
         {
@@ -702,7 +702,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-06T02:25:05Z",
+            "last_commit": "2026-06-07T05:18:37Z",
             "owner": "PytorchConnectomics",
             "repo": "pytorch_connectomics",
             "stars": 194
@@ -715,7 +715,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-02T21:45:11Z",
+            "last_commit": "2026-06-07T01:23:42Z",
             "owner": "morphonets",
             "repo": "SNT",
             "stars": 60
@@ -914,7 +914,7 @@
             "last_commit": "2026-02-05T09:13:21Z",
             "owner": "weigertlab",
             "repo": "spotiflow",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -1427,7 +1427,7 @@
           "repo_info": {
             "archived": false,
             "language": "MATLAB",
-            "last_commit": "2026-06-05T21:39:17Z",
+            "last_commit": "2026-06-06T19:50:25Z",
             "owner": "gcharvin",
             "repo": "DetecDiv",
             "stars": 8
@@ -1523,7 +1523,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-04T21:46:55Z",
+            "last_commit": "2026-06-06T14:25:10Z",
             "owner": "cytomining",
             "repo": "pycytominer",
             "stars": 142
@@ -1692,7 +1692,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:54:48.814Z",
+    "last_updated": "2026-06-07T06:25:18.203Z",
     "original_repository": "hallvaaw/awesome-biological-image-analysis",
     "source_repository": "v1nvn/enhansome-biological-image-analysis",
     "source_repository_description": null,
